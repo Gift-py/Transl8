@@ -13,6 +13,7 @@ darkMode.addEventListener("click", function (event) {
   switchIcon();
   root.style.setProperty("--white", "#121212");
   root.style.setProperty("--black", "#fff");
+  root.style.setProperty("--shadow", "rgba(128, 128, 128, 0.05)");
 });
 
 lightMode.addEventListener("click", function (event) {
@@ -21,4 +22,5 @@ lightMode.addEventListener("click", function (event) {
   switchIcon();
   root.style.setProperty("--white", "#fff");
   root.style.setProperty("--black", "#121212");
+  root.style.setProperty("--shadow", "rgba(18, 18, 18, 0.12)");
 });

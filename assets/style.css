@@ -23,9 +23,10 @@
   }
 }
 :root {
-  --white: #fff;
+  --white: #ffffff;
   --black: #121212;
   --gray: #888;
+  --shadow: rgba(18, 18, 18, 0.2);
 }
 
 ::-moz-selection {
@@ -125,7 +126,9 @@ body {
   }
 }
 
-.logo:link, .logo:active, .logo:visited {
+.logo:link,
+.logo:active,
+.logo:visited {
   font-family: Migra, "Poppins", sans-serif;
   font-size: 4rem;
   line-height: 4.8rem;
@@ -141,7 +144,9 @@ body {
 .nav__item:not(:last-child, :nth-last-child(2)) {
   margin-right: 1rem;
 }
-.nav__link:link, .nav__link:visited, .nav__link:active {
+.nav__link:link,
+.nav__link:visited,
+.nav__link:active {
   text-decoration: none;
   padding: 8px;
 }
@@ -201,7 +206,9 @@ body {
   color: var(--black);
   background-color: var(--white);
 }
-.intro__container .right .btn:link, .intro__container .right .btn:visited, .intro__container .right .btn:active {
+.intro__container .right .btn:link,
+.intro__container .right .btn:visited,
+.intro__container .right .btn:active {
   text-decoration: none;
 }
 .intro__container .right .btn__text {
@@ -397,19 +404,19 @@ body {
 }
 .converter .english,
 .converter .danish {
-  box-shadow: 0 0.4rem 8rem rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0.4rem 2rem var(--shadow), 0 -0.4rem 2rem var(--shadow);
   border-radius: 4rem;
   flex-basis: 45%;
 }
 @media only screen and (max-width: 56.25em) {
   .converter .english,
-.converter .danish {
+  .converter .danish {
     flex-basis: 80%;
   }
 }
 @media only screen and (max-width: 50em) {
   .converter .english,
-.converter .danish {
+  .converter .danish {
     flex-basis: 100%;
   }
 }
@@ -496,4 +503,4 @@ body {
   color: var(--white);
   font-family: Euclid, "Poppins", sans-serif;
   margin: 2rem;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */

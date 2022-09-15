@@ -33,10 +33,12 @@ $font-display: Euclid, "Poppins", sans-serif;
 $font-main: Migra, "Poppins", sans-serif;
 
 :root {
-  --white: #fff;
+  --white: #ffffff;
   --black: #121212;
 
   --gray: #888;
+
+  --shadow: rgba(18, 18, 18, 0.2);
 }
 
 ::-moz-selection {
@@ -452,7 +454,7 @@ body {
 
   .english,
   .danish {
-    box-shadow: 0 0.4rem 8rem rgba(0, 0, 0, 0.12);
+    box-shadow: 0 0.4rem 2rem var(--shadow), 0 -0.4rem 2rem var(--shadow);
 
     border-radius: 4rem;
     flex-basis: 45%;
