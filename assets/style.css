@@ -404,8 +404,8 @@ body {
 }
 .converter .english,
 .converter .danish {
-  box-shadow: 0 0.4rem 2rem var(--shadow), 0 -0.4rem 2rem var(--shadow);
-  border-radius: 4rem;
+  box-shadow: 0 0.4rem 4rem var(--shadow);
+  border-radius: 3.6rem;
   flex-basis: 45%;
 }
 @media only screen and (max-width: 56.25em) {
