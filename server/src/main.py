@@ -1,11 +1,17 @@
 from flask import Flask, render_template, request
 import cohere
-import server.src.config as config
+import config
+import time
+import os
 
 api_key = config.api_key
 co = cohere.Client(api_key)
 
 app = Flask(__name__)
+
+def format_server_time():
+    server_time = time.localtime()
+    return time.strftime("%I:%M:%S %p", server_time)
 
 @app.route('/')
 def home():
@@ -45,6 +51,6 @@ def generate_text(current_prompt):
     return generation
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0',port=int(os.environ.get('PORT', 8080)))
 
 
