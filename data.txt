@@ -1,0 +1,375 @@
+Informal: sorry
+Formal: apologize
+---
+Informal: go up
+Formal: increase
+---
+Informal: go down
+Formal: decrease
+---
+Informal: set up
+Formal: establish
+---
+Informal: look at
+Formal: examine
+---
+Informal: blow up
+Formal: explode
+---
+Informal: find out
+Formal: discover
+---
+Informal: bring about
+Formal: cause
+---
+Informal: put off
+Formal: postpone
+---
+Informal: put off
+Formal: delay
+---
+Informal: rack up
+Formal: accumulate
+---
+Informal: make up
+Formal: fabricate
+---
+Informal: stand for
+Formal: represent
+---
+Informal: find out
+Formal: discover
+---
+Informal: find out
+Formal: ascertain
+---
+Informal: leave out
+Formal: omit
+---
+Informal: point out
+Formal: indicate
+---
+Informal: go against
+Formal: oppose
+---
+Informal: get in touch with
+Formal: contact
+---
+Informal: It's about
+Formal: It concerns
+---
+Informal: It's about
+Formal: It is in regards to
+---
+Informal: need to
+Formal: required 
+---
+Informal: think about
+Formal: consider
+---
+Informal: get
+Formal: obtain
+---
+Informal: put up
+Formal: tolerate
+---
+Informal: deal with
+Formal: handle
+---
+Informal: seem
+Formal: appear
+---
+Informal: show
+Formal: demonstrate, illustrate, portray
+---
+Informal: show
+Formal: portray
+---
+Informal: show
+Formal: illustrate
+---
+Informal: start
+Formal: commence
+---
+Informal: keep
+Formal: retain
+---
+Informal: free
+Formal: release
+---
+Informal: get on someone's nerves
+Formal: bother
+---
+Informal: ring up
+Formal: call
+---
+Informal: show up
+Formal: arrive
+---
+Informal: let
+Formal: permit
+---
+Informal: fill in
+Formal: substitute
+---
+Informal: fill in
+Formal: inform
+---
+Informal: block
+Formal: undermine
+---
+Informal: greenlight
+Formal: authorize
+---
+Informal: give the go ahead
+Formal: authorize
+---
+Informal: Anyways
+Formal: Nevertheless
+---
+Informal: a lot of
+Formal:  many
+---
+Informal: a lot of
+Formal: much
+---
+Informal: lots of
+Formal: much
+---
+Informal: lots of
+Formal: many
+---
+Informal: tons of
+Formal: large quantity of
+---
+Informal: tons of
+Formal: a number of
+---
+Informal: heaps of
+Formal: large quantity of
+---
+Informal: heaps of
+Formal: a number of
+---
+Informal: totally
+Formal: strongly
+---
+Informal: totally
+Formal: completely
+---
+Informal: really
+Formal: definitely
+---
+Informal: very
+Formal: definitely
+---
+Informal: Hi Robert
+Formal: Dear Sir
+---
+Informal: Hi Jane
+Formal: Dear Madam
+---
+Informal: Just wanted to let you know…
+Formal: I am writing to inform you…
+---
+Informal: Yours Truly
+Formal: Yours faithfully
+---
+Informal: Yours Truly
+Formal: Yours sincerely
+---
+Informal: Best regards
+Formal: Yours sincerely
+---
+Informal: Best regards
+Formal: Yours faithfully
+---
+Informal: kind regards
+Formal: Yours sincerely
+---
+Informal: kind regards
+Formal: Yours faithfully
+---
+Informal: Hope to hear from you soon
+Formal: I look forward to hearing from you
+---
+Informal: You can call me if you need anything
+Formal: Please do not hesitate to contact me
+---
+Informal: ASAP
+Formal: as soon as possible
+---
+Informal: T.V.
+Formal: television
+---
+Informal: photo
+Formal: photograph
+---
+Informal: cell
+Formal: cell phone
+---
+Informal: net
+Formal: Internet
+---
+Informal: kids
+Formal: children
+---
+Informal: bad
+Formal: negative
+---
+Informal: good
+Formal: positive
+---
+Informal: really big
+Formal: considerable
+---
+Informal: right
+Formal: correct
+---
+Informal: wrong
+Formal: incorrect
+---
+Informal: smart
+Formal: intelligent
+---
+Informal: cheap
+Formal: inexpensive
+---
+Informal: loaded
+Formal: rich
+---
+Informal: The study checked out the health effects of passive smoking.
+Formal: The study examined the health effects of passive smoking.
+---
+Informal: This experiment worked out just fine.
+Formal:  This experiment was successful.
+---
+Informal: The outcomes of the study haven't been documented yet.
+Formal: The outcomes of the study have not been documented yet.
+---
+Informal: I believe the health effects of ...
+Formal:  It is believed that the health effects of ...
+---
+Informal: I'm sorry for submitting the work late.
+Formal:  I apologize for the delay in submission.
+---
+Informal: The presentation slides for the meeting aren't ready yet.
+Formal:  The presentation slides for the meeting are not ready yet.
+---
+Informal: As you go through the report, please let me know of any errors.
+Formal:  When you review the report, inform me of any discrepancies.
+---
+Informal: I believe there is a positive correlation between the factors.
+Formal: It is believed that there is a positive correlation between the factors.
+---
+Informal: hey what's going on?
+Formal:  What is going on?
+---
+Informal: Hey how's it going?
+Formal:  How are you?
+---
+Informal: They'll attend the meeting tomorrow.
+Formal:  They will be attending the meeting tomorrow.
+---
+Informal: Sorry!
+Formal:  I would like to apologise for any inconvenience caused.
+---
+Informal: I wanna pass my English exam tomorrow.
+Formal:  I want to pass my English exam tomorrow.
+---
+Informal: Nice to meet you.
+Formal:  It is a pleasure to meet you
+---
+Informal: Worried about you
+Formal:  Concerned about you
+---
+Informal: Just a note to say ...
+Formal:  I'm writing to inform you ...
+---
+Informal: I have a creative mind.
+Formal:  I am highly innovative.
+---
+Informal: Thanks a lot.
+Formal:  I appreciate your assistance.
+---
+Informal: The improvements can't be introduced due to funding restrictions.
+Formal:  Improvements cannot be introduced due to funding restrictions.
+---
+Informal: I don't believe that the results are accurate.
+Formal:  The results are not believed to be accurate.
+---
+Informal: The research project won't continue next year.
+Formal:  The research project will not continue next year.
+---
+Informal: The balloon was blown up for the experiment.
+Formal:  The balloon was inflated for the experiment.
+---
+Informal: The patient got over his illness.
+Formal:  The patient recovered from his illness.
+---
+Informal: The results of the study were mixed up.
+Formal:  The results of the study were confused.
+---
+Informal: The mob was very rowdy during the protest against cuts to university funding.
+Formal:   The crowd was very rowdy during the protest against the cuts to university funding.
+---
+Informal: Lecturers still count on students to use correct grammar and punctuation in essays.
+Formal:  Lecturers expect students to use correct grammar and punctuation in essays.
+---
+Informal: It was raining cats and dogs.
+Formal:  It was raining very heavily.
+---
+Informal: I considered various research methods for the study.
+Formal:  Various research methods were considered for the study.
+---
+Informal: We believe the practice is unsustainable.
+Formal:  It is believed that the practice is unsustainable.
+---
+Informal: During the interview, I asked students about their experiences
+Formal:   During the interview, students were asked about their experiences.
+---
+Informal: You have'nt ...
+Formal:  We note that you have not ...
+---
+Informal: We want to ...
+Formal:  We would like to ...
+---
+Informal: We've received ...
+Formal: 	We are in receipt of ...
+---
+Informal: It will do you good.
+Formal:  It will be of great benefit to you.
+---
+Informal: He was born with a silver spoon.
+Formal:  He was born into a very rich family.
+---
+Informal: I felt better after my medicine kicked in.
+Formal:  I felt better after my medicine came into effect.
+---
+Informal: I'm all ears
+Formal:  I am listening to you carefully
+---
+Informal: You can call me 24/7
+Formal:  You can call me anytime
+---
+Informal: You can say that again!
+Formal:  I agree with you 100%
+---
+Informal: I'm gonna speak to him
+Formal:  I am going to speak to him
+---
+Informal: I've gotta go
+Formal:  I have got to go 
+---
+Informal: I just wanna hold your hands
+Formal:  I just want to hold your hands
+---
+Informal: Lemme drive the car today
+Formal:  Let me drive the car today
+---
+Informal: I'mma punish him for his rudeness
+Formal:  I am going to punish him for his rudeness
+---
+Informal: I want to ask about the job, and get some info
+Formal:  I desire to enquire about the occupation, and receive some information
+---
