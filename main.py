@@ -41,4 +41,4 @@ def generate_text(current_prompt):
     return generation
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
