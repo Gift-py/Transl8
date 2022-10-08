@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
 import cohere
-import config
+import server.src.config as config
 
 api_key = config.api_key
 co = cohere.Client(api_key)
@@ -24,6 +24,10 @@ def translate():
         response = {'res': para, 'inp': form_data['inputtext']}
         return render_template('index.html', form_data = response)
 
+@app.errorhandler(404)
+def page_not_found(e):
+    return 'Oops! \nPage Not Found...'
+
 def generate_text(current_prompt):
     file = open('data.txt', 'r')
     lines = file.readlines()
@@ -41,4 +45,4 @@ def generate_text(current_prompt):
     return generation
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
