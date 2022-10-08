@@ -45,4 +45,8 @@ def generate_text(current_prompt):
     return generation
 
 if __name__ == '__main__':
+<<<<<<< HEAD:server/src/main.py
     app.run()
+=======
+    app.run()
+>>>>>>> d3c63c1a93bb9933d5f89966cd1505775ca7eebd:main.py
