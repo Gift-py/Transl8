@@ -19,7 +19,8 @@ def translate():
             Informal: {form_data['inputtext']}.
             Formal:
         '''
-        para = generate_text(current_prompt)
+        par = generate_text(current_prompt)
+        para = par.replace('---', '')
         response = {'res': para, 'inp': form_data['inputtext']}
         return render_template('index.html', form_data = response)
 
