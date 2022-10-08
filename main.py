@@ -1,7 +1,8 @@
 from flask import Flask, render_template, request
 import cohere
+import config
 
-api_key = "eHSOLbeNRzbOx0zlinkQSxRmbUaVYzDomph36nfD"
+api_key = config.api_key
 co = cohere.Client(api_key)
 
 app = Flask(__name__)
