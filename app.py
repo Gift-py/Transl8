@@ -2,6 +2,7 @@ from flask import Flask, render_template, request
 import cohere
 import config
 
+#connecting to co:here
 api_key = config.api_key 
 co = cohere.Client(api_key)
 
