@@ -31,7 +31,6 @@ def generate_text(current_prompt):
     base_prompt = '''This is a program that will convert an informal text to a formal text. \n'''
     for line in lines[240:]:
         base_prompt = base_prompt + "{}".format(line.strip())+'\n'
-    #using co:here generate endpoint
     response = co.generate(
         model = 'xlarge',
         prompt=base_prompt + '\n' + current_prompt,
